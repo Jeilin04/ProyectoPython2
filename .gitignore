@@ -1,0 +1,7 @@
+env/
+*/__pycache__/
+docs/build/*
+
+
+
+!docs/build/index.txt
