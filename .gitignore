@@ -1,7 +1,11 @@
 env/
 */__pycache__/
 docs/build/*
-
-
-
-!docs/build/index.txt
+dist/
+src/ImgGrayMailJCWUCR.egg-info
+src/ImgGrayMailJCWUCR/__init__.py
+src/ImgGrayMailJCWUCR/__pycache__/
+.pypirc
+LICENSE
+Readme.md
+pyproject.toml

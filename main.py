@@ -1,5 +1,5 @@
-from src.imagenes import showImageFromURL, downloadImageFromUrl, grayScaleImage
-from src.mymail import sendQuickMail, sendAttachEmail
+from src.ImgGrayMailJCWUCR.imagenes import showImageFromURL, downloadImageFromUrl, grayScaleImage
+from src.ImgGrayMailJCWUCR.mymail import sendQuickMail, sendAttachEmail
 
 def main():
 
