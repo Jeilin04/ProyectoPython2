@@ -6,6 +6,4 @@ src/ImgGrayMailJCWUCR.egg-info
 src/ImgGrayMailJCWUCR/__init__.py
 src/ImgGrayMailJCWUCR/__pycache__/
 .pypirc
-LICENSE
-Readme.md
 pyproject.toml
