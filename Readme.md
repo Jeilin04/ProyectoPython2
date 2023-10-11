@@ -5,7 +5,7 @@
 Esta bilioteca consiste en un conjunto de módulos que permiten:
 
 - Descargar una imagen desde una URL deseada y visualizarla.
-- Guardar la imagen en una dirección de la PC deseada.
+- Guardar la imagen en una dirección deseada de la PC.
 - Convertir la imagen descargada en su versión en gris.
 - Enviar 2 correos.
   - Uno tipo "QuickMail" informativo.
